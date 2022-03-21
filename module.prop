@@ -1,0 +1,6 @@
+id=NoPIPadding
+name=No Privacy Indicator Padding
+version=v1.1
+versionCode=110
+author=Adrien
+description=Remove Status Bar Privacy Indicator Padding (Android 12)
